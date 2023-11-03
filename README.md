@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **<a href="https://github.com/EirikOrkelbog/portfolio">my portfolio page</a>**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **eirikorkelbog@gmail.com**
 
