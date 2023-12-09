@@ -15,5 +15,3 @@
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,figma,git,postman" />
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eirikorkelbog&" alt="eirikorkelbog" /></p>
