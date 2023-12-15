@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **eirikorkelbog@gmail.com**
 
+- 💻 My portfolio **<a href="https://eirikorkelbog.com/">eirikorkelbog.com</a>**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eirik-orkelbog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eirik-orkelbog" height="30" width="40" /></a>
