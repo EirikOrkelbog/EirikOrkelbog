@@ -1,6 +1,6 @@
 <img align="center" alt="hello world" width="400" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif"> 
 
-- 🔭 I’m currently working on a **<a href="https://github.com/EirikOrkelbog/Spotify">Spotify clone</a>**
+- 🔭 I’m currently working on **<a href="https://github.com/EirikOrkelbog/Bankzy-App">Bankzy App</a>**
 
 - 🌱 I’m currently learning **Vue.js**
 
