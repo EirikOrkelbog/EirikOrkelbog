@@ -1,8 +1,8 @@
-<img align="center" alt="hello world" width="400" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif"> 
+<h1 align="center">Hi 👋, I'm Eirik Orkelbog</h1>
 
 - 🔭 I’m currently working on **<a href="https://github.com/EirikOrkelbog/Bankzy-App">Bankzy App</a>**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **eirikorkelbog@gmail.com**
 
@@ -15,5 +15,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,figma,git,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,figma,git,postman" />
 </p>
